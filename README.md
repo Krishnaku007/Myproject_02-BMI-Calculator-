@@ -1,1 +1,1 @@
-# Myproject_02-BMI-Calculator-
+# Myproject_02-BMI-Calculator-  This is a project for beginners who is try to learn concept OF JS. This project is BMI calculator is used to calculate Body mass index from height and weight of the given person.
